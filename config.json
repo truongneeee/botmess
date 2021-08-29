@@ -10,10 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "MaiHuyBao",
-    "PREFIX": "&",
-    "ADMINBOT": [
-    ],
+    "BOTNAME": "Bot Giang Văn Trường",
+    "PREFIX": "/",
+    "ADMINBOT": [100007082526325
+   ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
